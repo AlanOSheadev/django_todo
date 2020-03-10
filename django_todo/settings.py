@@ -26,8 +26,8 @@ SECRET_KEY = 'y5%8(7s&&mootj&$b9nr0kdk51fsjn$@edkxof(vka)d@$fnzk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://github.com/AlanOSheadev',
-                 'https://alans-simple-django-todo.herokuapp.com/']
+ALLOWED_HOSTS = ['github.com/AlanOSheadev',
+                 'alans-simple-django-todo.herokuapp.com']
 
 
 # Application definition
